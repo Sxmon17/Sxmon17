@@ -1,7 +1,7 @@
 ## 💫 About Me:
 
 🗺️ Living and learning in Vienna</br>
-🏫 HTL Rennweg, 1030 Wien for Informationtechnology</br>
+🏫 HTL Rennweg, 1030 Wien for IT</br>
 🔭 I’m currently working on ![png-texter](https://github.com/Sxmon17/png-texter)</br>
 🧪 I’m currently learning how to write real world applications in rust.</br>
 
