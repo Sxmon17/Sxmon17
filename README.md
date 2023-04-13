@@ -1,8 +1,8 @@
 ## 💫 About Me:
 
-🗺️ Living and learning in Vienna</br>
-🏫 HTL Rennweg, 1030 Wien for IT</br>
-🔭 I’m currently working on ![png-texter](https://github.com/Sxmon17/png-texter)</br>
+🗺️ Living in Vienna</br>
+🏫 HTL Rennweg, 1030 Wien; IT</br>
+🔭 I’m currently working on ![FerrumLink](https://github.com/FerrumLink)</br>
 🧪 I’m currently learning how to write real world applications in rust.</br>
 
 ## 💻 Tech Stack:
